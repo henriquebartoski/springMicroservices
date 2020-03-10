@@ -1,0 +1,6 @@
+/home/bartoski/Documentos/Projects/JavaScript/springMicroservices/src/main/java/com/example/demo/endpoint/controller/CourseController.java
+/home/bartoski/Documentos/Projects/JavaScript/springMicroservices/src/main/java/com/example/demo/endpoint/model/Course.java
+/home/bartoski/Documentos/Projects/JavaScript/springMicroservices/src/main/java/com/example/demo/endpoint/model/AbstractEntity.java
+/home/bartoski/Documentos/Projects/JavaScript/springMicroservices/src/main/java/com/example/demo/endpoint/service/CourseService.java
+/home/bartoski/Documentos/Projects/JavaScript/springMicroservices/src/main/java/com/example/demo/DemoApplication.java
+/home/bartoski/Documentos/Projects/JavaScript/springMicroservices/src/main/java/com/example/demo/endpoint/repository/CourseRepository.java

@@ -1,0 +1,7 @@
+com/example/demo/DemoApplication.class
+com/example/demo/endpoint/controller/CourseController.class
+com/example/demo/endpoint/repository/CourseRepository.class
+com/example/demo/endpoint/model/AbstractEntity.class
+com/example/demo/endpoint/model/Course$CourseBuilder.class
+com/example/demo/endpoint/model/Course.class
+com/example/demo/endpoint/service/CourseService.class

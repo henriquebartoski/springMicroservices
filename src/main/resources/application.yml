@@ -15,4 +15,4 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/bartoski?allowPublicKeyRetrieval=true&sslMode=DISABLED
     username: root
-    password: 30265888
+    password: hbartoski
